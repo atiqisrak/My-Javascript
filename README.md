@@ -1,0 +1,2 @@
+# My-Javascript
+Learning Purpose
